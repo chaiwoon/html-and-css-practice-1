@@ -1,0 +1,27 @@
+#banner {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   border-bottom: 1px solid;
+   padding: 15px 0px 15px 0px;
+   font-size: 10px;
+   color: rgba(0, 0, 0, 0.5);
+}
+
+#banner ul li {
+   display: inline;
+}
+
+#banner .second {
+   margin-left: 0px;
+}
+
+#banner .language-select {
+   margin-left: 400px;   
+}
+
+#banner .family-company {
+   margin-right: 400px;
+}
+
+
